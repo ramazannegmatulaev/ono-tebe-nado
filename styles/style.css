@@ -1,1 +1,8 @@
-/* место для вашего кода */
+.body {
+    width: 1440px;
+    background-color: #fff;
+}
+
+.header.block {
+    margin: 92px 49px 92px 51px;
+}

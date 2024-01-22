@@ -1,1 +1,1 @@
-Проектная работа "Оно тебе надо"
+https://github.com/ramazannegmatulaev/ono-tebe-nado.git

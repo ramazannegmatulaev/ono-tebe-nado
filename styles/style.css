@@ -213,7 +213,6 @@ footer {
 }
 
 .card {
-  height: 563px;
   position: relative;
 }
 
@@ -242,7 +241,6 @@ footer {
 
 .card__text {
   width: 100%;
-  min-height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -299,7 +297,6 @@ footer {
 
 .card .overlay {
   width: 100%;
-  height: 100%;
   top: 0;
   left: 0;
   position: absolute;
@@ -310,7 +307,6 @@ footer {
 }
 
 .lots__look-more-link {
-  height: 5px;
   display: inline-block;
   color: #000;
   font-family: "Raleway", Arial, sans-serif;
